@@ -1,3 +1,7 @@
+console.log(document);
+const elem04 = document.querySelector(".stat div");
+console.log(elem04);
+
 /* const allBtns = document.querySelectorAll(".rate-button");
 allBtns.forEach((btn) => {
   btn.addEventListener("click", (event) => {
